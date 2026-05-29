@@ -13,10 +13,10 @@
     "test:e2e": "npx playwright test"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.17",
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.1",
     "@tailwindcss/vite": "^4.1.0",
-    "astro": "^5.7.0",
+    "astro": "^6.1.10",
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.0",
     "unist-util-visit": "^5.1.0"
